@@ -7,4 +7,4 @@ models.ipynb trains and runs the models.
 
 final_test_scraper.ipynb pulls final testing data to be used in the final test of the modelling notebook.
 
-Project_3_Slideshow.pdf further explains the methodology.
+Project_3.pdf further explains the methodology.
